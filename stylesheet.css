@@ -6,9 +6,8 @@ body{
 }
 
 .frontbox{
- width: 30%;
- height: 40%;
- max-height: 400px;
+ width: 100px;
+ height: 200px;
  margin: 5px;
  display: inline-block;
  background-color: grey;
@@ -18,4 +17,5 @@ body{
  width: 30%;
  height: 40%;
  display: inline-block;
+ margin: 5px;
 }
