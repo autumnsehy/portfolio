@@ -5,7 +5,7 @@ body {
 }
 
 
-#writingbox #contactbox #languagesbox #hobbiesbox #websitesbox {
+#writingbox , #contactbox , #languagesbox , #hobbiesbox , #websitesbox {
  background-color: #3b3a36;
  width= 30%;
  height= 40%;
