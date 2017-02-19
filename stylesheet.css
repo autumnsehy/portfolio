@@ -8,13 +8,11 @@ body{
  width: 200px;
  height: 400px;
  margin: 5px;
- display: inline-block;
  background-color: grey;
 }
 
 .myname{
  width: 200px;
  height: 400px;
- display: inline-block;
  margin: 5px;
 }
