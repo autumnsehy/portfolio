@@ -1,5 +1,6 @@
 
-
+body{
+ background-color: 
 .frontbox{
  width: 400px;
  height: 200px;
@@ -9,8 +10,8 @@
 }
 
 .myname{
- width: 400px;
- height: 200px;
+ width: 35%;
+ height: 45%;
  margin: 5px;
  display: inline-block;
 }
