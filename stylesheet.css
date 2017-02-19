@@ -11,3 +11,9 @@ body{
  display: inline-block;
 }
 
+.myname(
+ width: 30%;
+ height: 40%;
+ margin: 5px;
+ display: inline-block;
+}
