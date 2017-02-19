@@ -1,7 +1,7 @@
 
 body{
  background-color: #98C4AE;
- font: #FFFEFB;
+ color: #FFFEFB;
 }
 
 .frontbox{
@@ -10,7 +10,7 @@ body{
  margin: 10px;
  background-color: #47453F;
  display: inline-block;
- font: #FFFEFB;
+ color: #FFFEFB;
  text-align: center;
 }
 
