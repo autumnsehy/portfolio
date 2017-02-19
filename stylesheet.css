@@ -13,10 +13,12 @@ html , body{
  height: 400px;
  margin: 5px;
  background-color: grey;
+ float: left;
 }
 
 .myname{
  width: 200px;
  height: 400px;
  margin: 5px;
+ float: left;
 }
