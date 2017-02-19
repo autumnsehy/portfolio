@@ -6,13 +6,11 @@
  margin: 5px;
  background-color: grey;
  display: inline-block;
- float: left;
 }
 
 .myname{
  width: 200px;
  height: 400px;
  margin: 5px;
- float: left;
  display: inline-block;
 }
