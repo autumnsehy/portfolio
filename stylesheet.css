@@ -14,8 +14,8 @@ body{
 }
 
 .myname{
- width: 30%;
- height: 40%;
+ width: 100px;
+ height: 200px;
  display: inline-block;
  margin: 5px;
 }
