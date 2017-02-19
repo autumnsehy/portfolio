@@ -8,6 +8,6 @@ body{
  width: 30%;
  height: 40%;
  margin: 5px;
- position: inline-block;
+ display: inline-block;
 }
 
