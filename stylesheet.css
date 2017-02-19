@@ -4,13 +4,8 @@ body {
  color: white;
 }
 
-
-#writingbox , #contactbox , #languagesbox , #hobbiesbox , #websitesbox {
- background-color: #3b3a36;
- text-align: center;
-}
-
 #writingbox {
+ background-color: #3b3a36;
  width= 200px;
  height= 100px;
 }
