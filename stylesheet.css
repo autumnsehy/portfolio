@@ -7,8 +7,8 @@ body {
 
 #writingbox , #contactbox , #languagesbox , #hobbiesbox , #websitesbox {
  background-color: #3b3a36;
- width=30%;
- height=40%;
+ width=200px;
+ height=100px;
  margin=10px;
  float=left;
 }
