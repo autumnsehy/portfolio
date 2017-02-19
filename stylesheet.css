@@ -6,7 +6,7 @@ body {
 
 #writingbox {
  background-color: #3b3a36;
- width= 200px;
- height= 100px;
+ max-width= 200px;
+ max-height= 100px;
 }
 
