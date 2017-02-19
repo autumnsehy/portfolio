@@ -8,7 +8,6 @@ body{
  width: 120px;
  height: 120px;
  margin: 20px;
- position: relative;
- float: left;
+ position: inline-block;
 }
 
