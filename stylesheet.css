@@ -14,8 +14,8 @@ body{
  
 .writingfrontbox{
  display: flex;
-width: 300px;
- height: 300px;
+width: 350px;
+ height: 250px;
  margin: 40px;
  justify-content: center;
  align-items: center;
@@ -25,8 +25,8 @@ width: 300px;
 
 .websitesfrontbox{
  display: flex;
- width: 300px;
- height: 300px;
+ width: 350px;
+ height: 250px;
  margin: 40px;
  justify-content: center;
  align-items: center;
@@ -36,8 +36,8 @@ width: 300px;
 
 .languagesfrontbox{
  display: flex;
- width: 300px;
-  height: 300px;
+ width: 350px;
+  height: 250px;
  margin: 40px;
  justify-content: center;
  align-items: center;
@@ -47,8 +47,8 @@ width: 300px;
 
 .contactfrontbox{
  display: flex;
- width: 300px;
-  height: 300px;
+ width: 350px;
+  height: 250px;
  margin: 40px;
  justify-content: center;
  align-items: center;
@@ -58,8 +58,8 @@ width: 300px;
 
 .mynamefrontbox{
  display: flex;
- width: 300px;
-  height: 300px;
+ width: 350px;
+  height: 250px;
  margin: 40px;
  justify-content: center;
  align-items: center;
@@ -67,8 +67,8 @@ width: 300px;
 
 .hobbiesfrontbox{
  display: flex;
- width: 300px;
-  height: 300px;
+ width: 350px;
+  height: 250px;
  margin: 40px;
  justify-content: center;
  align-items: center;
