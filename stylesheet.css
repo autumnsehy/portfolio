@@ -13,6 +13,8 @@ body{
  color: #FFFEFB;
  padding-top: 30px;
  text-align: center;
+vertical-align: middle;
+line-height: 300px;  
 }
 
 .myname{
