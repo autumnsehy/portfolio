@@ -1,78 +1,8 @@
-
-body{
- background-color: #98C4AE;
- color: #FFFEFB;
+body {
 }
 
 .container {
- display: -webkit-flex;
- display: flex;
- flex-wrap: wrap;
- width: 100%;
- height: 100%;
-}
- 
-.writingfrontbox{
- display: flex;
-width: 400px;
- height: 200px;
- margin: 35px;
- justify-content: center;
- align-items: center;
- background-color: #47453F;
- color: #FFFEFB;
-}
-
-.websitesfrontbox{
- display: flex;
- width: 400px;
- height: 200px;
- margin: 35px;
- justify-content: center;
- align-items: center;
- background-color: #47453F;
- color: #FFFEFB;
-}
-
-.languagesfrontbox{
- display: flex;
- width: 400px;
-  height: 200px;
- margin: 35px;
- justify-content: center;
- align-items: center;
- background-color: #47453F;
- color: #FFFEFB;
-}
-
-.contactfrontbox{
- display: flex;
- width: 400px;
-  height: 200px;
- margin: 35px;
- justify-content: center;
- align-items: center;
- background-color: #47453F;
- color: #FFFEFB;
-}
-
-.mynamefrontbox{
- display: flex;
- width: 400px;
-  height: 200px;
- margin: 35px;
- justify-content: center;
- align-items: center;
-}
-
-.hobbiesfrontbox{
- display: flex;
- width: 400px;
-  height: 200px;
- margin: 35px;
- justify-content: center;
- align-items: center;
- background-color: #47453F;
- color: #FFFEFB;
+ width= 100%;
+ height= 100%;
 }
 
