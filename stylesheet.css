@@ -14,9 +14,9 @@ body{
  
 .writingfrontbox{
  display: flex;
-width: 400px;
- height: 400px;
- margin: 5px;
+width: 350px;
+ height: 350px;
+ margin: 15px;
  justify-content: center;
  align-items: center;
  background-color: #47453F;
@@ -25,9 +25,9 @@ width: 400px;
 
 .websitesfrontbox{
  display: flex;
- width: 400px;
- height: 400px;
- margin: 5px;
+ width: 350px;
+ height: 350px;
+ margin: 15px;
  justify-content: center;
  align-items: center;
  background-color: #47453F;
@@ -36,9 +36,9 @@ width: 400px;
 
 .languagesfrontbox{
  display: flex;
- width: 400px;
-  height: 400px;
- margin: 5px;
+ width: 350px;
+  height: 350px;
+ margin: 15px;
  justify-content: center;
  align-items: center;
  background-color: #47453F;
@@ -47,9 +47,9 @@ width: 400px;
 
 .contactfrontbox{
  display: flex;
- width: 400px;
-  height: 400px;
- margin: 5px;
+ width: 350px;
+  height: 350px;
+ margin: 15px;
  justify-content: center;
  align-items: center;
  background-color: #47453F;
@@ -58,18 +58,18 @@ width: 400px;
 
 .mynamefrontbox{
  display: flex;
- width: 400px;
-  height: 400px;
- margin: 5px;
+ width: 350px;
+  height: 350px;
+ margin: 15px;
  justify-content: center;
  align-items: center;
 }
 
 .hobbiesfrontbox{
  display: flex;
- width: 400px;
-  height: 400px;
- margin: 5px;
+ width: 350px;
+  height: 3500px;
+ margin: 15px;
  justify-content: center;
  align-items: center;
  background-color: #47453F;
