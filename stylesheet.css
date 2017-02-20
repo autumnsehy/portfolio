@@ -5,8 +5,8 @@ body{
 }
 
 .frontbox{
- height: 45%;
- width: 30%;
+ height: 300px;
+ width: 300px;
  margin: 10px;
  display: flex;
  flex-direction: row;
