@@ -9,7 +9,6 @@ body{
  width: 300px;
  margin: 10px;
  display: -webkit-flex;
- display: flex;
  justify-content: center;
  align-items: center;
  background-color: #47453F;
@@ -21,7 +20,6 @@ body{
  height: 300px;
  margin: 10px;
  display: -webkit-flex;
- display: flex;
  justify-content: center;
  align-items: center;
 }
