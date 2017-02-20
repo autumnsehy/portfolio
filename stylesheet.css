@@ -21,3 +21,8 @@ body{
  display: inline-block;
  text-align: center;
 }
+
+.boxtext{
+ margin-left: auto;
+ margin-right: auto;
+}
