@@ -11,6 +11,8 @@ body{
  background-color: #47453F;
  display: inline-block;
  color: #FFFEFB;
+ text-align: center;
+ padding-top: 10px;
 }
 
 .myname{
@@ -20,11 +22,4 @@ body{
  display: inline-block;
 }
 
-.boxtext{
- margin: 0;
-position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%)
-}
+
