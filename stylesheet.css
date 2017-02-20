@@ -24,7 +24,7 @@ width: 400px;
 
 .websitesfrontbox{
  display: flex;
- width: 300px;
+ width: 400px;
  height: 400px;
  justify-content: center;
  align-items: center;
@@ -34,7 +34,7 @@ width: 400px;
 
 .languagesfrontbox{
  display: flex;
- width: 300px;
+ width: 400px;
   height: 400px;
  justify-content: center;
  align-items: center;
@@ -44,7 +44,7 @@ width: 400px;
 
 .contactfrontbox{
  display: flex;
- width: 300px;
+ width: 400px;
   height: 400px;
  justify-content: center;
  align-items: center;
@@ -54,7 +54,7 @@ width: 400px;
 
 .mynamefrontbox{
  display: flex;
- width: 300px;
+ width: 400px;
   height: 400px;
  justify-content: center;
  align-items: center;
@@ -62,7 +62,7 @@ width: 400px;
 
 .hobbiesfrontbox{
  display: flex;
- width: 300px;
+ width: 400px;
   height: 400px;
  justify-content: center;
  align-items: center;
