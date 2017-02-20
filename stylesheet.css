@@ -4,6 +4,10 @@ body{
  color: #FFFEFB;
 }
 
+.container {
+ display: flex;
+}
+ 
 .frontbox{
  height: 300px;
  width: 300px;
