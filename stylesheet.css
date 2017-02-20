@@ -14,22 +14,7 @@ font-family: 'Slabo 27px', serif;
  text-align: center;
 }
 
-.nav {
- display: flex;
- width: 200px;
- height: 800px;
- background-color: yellow;
- 
-}
 
-.title{
- 
-}
 
-.main {
- display: flex;
- text-align: center;
- width: 800px;
- height: 200px;
-}
+
 
