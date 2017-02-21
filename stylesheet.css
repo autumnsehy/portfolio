@@ -106,7 +106,7 @@ border: 10px 10px 10px 10px;
 #frontphoto{	
 display: inline-block;
 position: relative;
-margin-left: 30px;
+margin-left: 50px;
 max-width: 70%;
 max-height: 70%;
 border-color: white;
@@ -121,5 +121,5 @@ border-color: white;
 	width: 550px;
 	height: 500px;
 	line-height: 1.2;
-	padding: 20px;
+	padding: 30px;
 }
