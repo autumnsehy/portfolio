@@ -2,10 +2,8 @@ html , body {
  font-family: 'Raleway', sans-serif;
 font-family: 'Nixie One', cursive;
 font-family: 'Slabo 27px', serif;
- border: 0px;
- margin: 0px;
- padding: 0px;
 }
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -51,9 +49,13 @@ table {
 }
 
 .container {
+	height: 100%;
+	width: 100%;
 }
 
 .nav {
+width: 100%;
+height: 20%;
  margin: 0;
  padding: 0;
  background-color: #558273;
