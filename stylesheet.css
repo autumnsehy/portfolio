@@ -61,6 +61,7 @@ table {
  background-color: #558273;
  color: #DBEDEB;
  line-height: 1.1;
+ position: fixed;
 }
 
 .title {
