@@ -91,7 +91,7 @@ li {
 }
 
 .main{	
-border-top: 160px;
+margin-top: 160px;
 width: 100%;
 height: 3000px;	
 display: inline;
