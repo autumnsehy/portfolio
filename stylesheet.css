@@ -105,14 +105,17 @@ border: 10px 10px 10px 10px;
 	
 #frontphoto{	
 display: inline-block;
+position: relative;
+margin-left: 30px;
 max-width: 70%;
 max-height: 70%;
 border-color: white;
-margin-left: 30px;
+
 }
 
 #frontcontent{
 	display: inline-block;
+	position: relative;
 	font-size: 18pt;
 	font-family: 'Slabo 27px', serif;
 	width: 400px;
