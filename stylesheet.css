@@ -17,14 +17,16 @@ font-family: 'Slabo 27px', serif;
 }
 
 .title {
- font-family: 'Raleway', sans-serif;
+font-family: 'Nixie One', cursive;
+ font-size: 36px;
  text-align: center;
 }
 
 #menu {
     list-style-type: none;
     margin: 0px;
-    text-align: center;
+    font-family: 'Raleway', sans-serif;
+ font-size: 20px;
 }
 
 li {
