@@ -23,6 +23,7 @@ padding: 0;
 
 .title {
 font-family: 'Nixie One', cursive;
+ height: 100%;
  font-size: 32px;
  text-align: center;
  margin: 0;
@@ -30,6 +31,7 @@ font-family: 'Nixie One', cursive;
 }
 
 #menu {
+ height: 100%;
     list-style-type: none;
     margin: 0px;
  padding: 0;
