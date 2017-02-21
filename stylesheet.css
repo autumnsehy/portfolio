@@ -2,6 +2,9 @@ html , body {
  font-family: 'Raleway', sans-serif;
 font-family: 'Nixie One', cursive;
 font-family: 'Slabo 27px', serif;
+ border: 0px;
+ margin: 0px;
+ padding: 0px;
 }
 
 .container {
