@@ -20,10 +20,13 @@ font-family: 'Slabo 27px', serif;
 .title {
  font-family: 'Raleway', sans-serif;
  text-align: center;
- 
 }
 
-
+#menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
 
 
 
