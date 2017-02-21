@@ -103,18 +103,13 @@ img{
 border: 10px 10px 10px 10px;
 }
 	
-#firstphoto{	
+#frontphoto{	
 display: inline-block;
 max-width: 35%;
 max-height: 35%;
 border-color: white;
 }
 
-#secondphoto{
-display: inline-block;
-max-width: 40%;
-max-height: 40%;
-border-color: white;
-}
+
 
 
