@@ -26,8 +26,10 @@ font-family: 'Nixie One', cursive;
 #menu {
     list-style-type: none;
     margin: 0px;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway', sans-serif; 
+ font-weight: light;
  font-size: 20px;
+ text-align: center;
 }
 
 li {
