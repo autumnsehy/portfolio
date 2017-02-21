@@ -83,6 +83,7 @@ font-family: 'Nixie One', cursive;
 li {
  display: inline;
  text-align: center;
+ padding: 5px;
 }
 
 
