@@ -4,6 +4,7 @@ font-family: 'Nixie One', cursive;
 font-family: 'Slabo 27px', serif;
 margin: 0;
 padding: 0; 
+ min-height: 100%;
 }
 
 .container {
