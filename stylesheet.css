@@ -83,15 +83,26 @@ font-family: 'Nixie One', cursive;
 }
 
 li {
+	
  display: inline-block;
  text-align: center;
  padding: 5px;
+	
 }
 
 .main{
-	padding-top: 150px;
-	width: 100%;
-	height: 3000px;
+	
+padding-top: 150px;
+width: 100%;
+height: 3000px;
+	
+}
+
+#laoskingpic {
+	
+width: 50%;
+height: 50%;
+	
 }
 
 
