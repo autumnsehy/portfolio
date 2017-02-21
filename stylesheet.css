@@ -12,6 +12,8 @@ margin: 0px;
 }
 
 .nav {
+ display: block;
+ height: -10px;
  margin: 0;
  padding: 0;
  background-color: #558273;
