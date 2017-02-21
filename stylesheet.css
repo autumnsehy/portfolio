@@ -108,7 +108,7 @@ display: inline-block;
 max-width: 70%;
 max-height: 70%;
 border-color: white;
-left: 30px;
+margin-left: 30px;
 }
 
 #frontcontent{
