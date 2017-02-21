@@ -90,21 +90,24 @@ li {
 	
 }
 
-.main{
-	
+.main{	
 padding-top: 160px;
 width: 100%;
-height: 3000px;
-	
+height: 3000px;	
 }
 
-#laoskingpic #lifegoaltext{
-	
+#laoskingpic{	
+max-width: 50%;
+max-height: 50%;
+border-width: 10px;
+border-color: white;	
+}
+
+#lifegoaltext {
 max-width: 50%;
 max-height: 50%;
 border-width: 10px;
 border-color: white;
-	
 }
 
 
