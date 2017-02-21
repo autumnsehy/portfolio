@@ -100,6 +100,7 @@ height: 3000px;
 
 #laoskingpic #lifegoaltext{
 	
+display: inline-block;
 max-width: 50%;
 max-height: 50%;
 border-width: 10px;
