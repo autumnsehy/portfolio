@@ -11,10 +11,7 @@ font-family: 'Slabo 27px', serif;
 
 .nav {
  display: block;
- align-items: center;
- justify-content: center;
  width: 100%;
- height: 25%;
  background-color: #558273;
  color: #DBEDEB;
 }
@@ -31,7 +28,7 @@ font-family: 'Slabo 27px', serif;
 
 li {
  display: inline;
- align-items: center;
+ text-align: center;
 }
 
 
