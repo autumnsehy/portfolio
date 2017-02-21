@@ -104,14 +104,14 @@ border: 10px 10px 10px 10px;
 }
 	
 #laoskingpic{	
-max-width: 500px;
-max-height: 400px;
+max-width: 30%;
+max-height: 30%;
 border-color: white;	
 }
 
 #lifegoaltext {
-max-width: 500px;
-max-height: 400px;
+max-width: 30%;
+max-height: 30%;
 border-color: white;
 }
 
