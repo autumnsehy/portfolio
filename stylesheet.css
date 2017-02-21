@@ -10,7 +10,7 @@ font-family: 'Slabo 27px', serif;
 }
 
 .nav {
- display: flex;
+ display: block;
  align-items: center;
  justify-content: center;
  width: 100%;
@@ -26,7 +26,6 @@ font-family: 'Slabo 27px', serif;
     list-style-type: none;
     margin: 0;
     padding: 0;
- width: 100%;
 }
 
 
