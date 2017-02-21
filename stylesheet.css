@@ -23,10 +23,10 @@ font-family: 'Slabo 27px', serif;
 }
 
 #menu {
-   display: inline-block;
+   display: inline;
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 10px;
 }
 
 
