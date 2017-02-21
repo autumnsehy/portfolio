@@ -106,13 +106,15 @@ border: 10px 10px 10px 10px;
 #laoskingpic{	
 max-width: 30%;
 max-height: 30%;
-border-color: white;	
+border-color: white;
+display: inline-block;
 }
 
 #lifegoaltext {
 max-width: 30%;
 max-height: 30%;
 border-color: white;
+display: inline-block;
 }
 
 
