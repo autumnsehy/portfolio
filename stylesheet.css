@@ -105,8 +105,8 @@ border: 10px 10px 10px 10px;
 	
 #firstphoto{	
 display: inline-block;
-max-width: 800px;
-max-height: 600px;
+max-width: 10%;
+max-height: 10%;
 border-color: white;
 }
 
