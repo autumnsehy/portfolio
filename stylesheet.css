@@ -26,12 +26,13 @@ font-family: 'Slabo 27px', serif;
 
 #menu {
     list-style-type: none;
-    margin: 10px;
+    margin: 0px;
     padding: 10px;
 }
 
 li {
  display: inline;
+ margin: 10px;
 }
 
 
