@@ -94,6 +94,7 @@ li {
 .main{	
 position: relative;
 top: 160px;
+display: inline-block;
 }
 
 img{
