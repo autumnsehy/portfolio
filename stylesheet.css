@@ -2,18 +2,12 @@ html , body {
  font-family: 'Raleway', sans-serif;
 font-family: 'Nixie One', cursive;
 font-family: 'Slabo 27px', serif;
-margin: 0px;
-padding: 0px; 
 }
 
 .container {
-margin: 0px;
- padding: 0px;
 }
 
 .nav {
- display: block;
- height: -10px;
  margin: 0;
  padding: 0;
  background-color: #558273;
