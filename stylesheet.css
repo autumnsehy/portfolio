@@ -149,6 +149,10 @@ ul .frontcontent{
 text-align:  left;
 }
 
+h2 .frontcontent{
+display: inline-block;
+}
+
 .drop {
 }
 
