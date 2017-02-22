@@ -111,6 +111,8 @@ font-family: 'Nixie One', cursive;
 position: relative;
 display: inline-block;
 top: 180px;
+height: 100%;
+width: 100%;
 }
 
 	
