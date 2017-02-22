@@ -114,7 +114,7 @@ border-color: white;
 #frontcontent{
 	float: left;
 	display: inline-block;
-	padding-left: 20px;
+	margin-left: 20px;
 	font-size: 18pt;
 	font-family: 'Slabo 27px', serif;
 	width: 550px;
