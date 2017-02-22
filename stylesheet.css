@@ -1,7 +1,7 @@
 html , body {
- font-family: 'Raleway', sans-serif;
+font-family: 'Raleway', sans-serif;
 font-family: 'Nixie One', cursive;
-font-family: 'Slabo 27px', serif;
+font-family: 'Open Sans', sans-serif;
 }
 
 html, body, div, span, applet, object, iframe,
@@ -67,7 +67,8 @@ font-family:'Raleway', sans-serif;
 
 h2 {
 font-size: 22px;
-font-family: 'Nixie One', cursive;
+font-family: 'Open Sans', sans-serif;
+font-weight: 400;
 }
 
 .container {
