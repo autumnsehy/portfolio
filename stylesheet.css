@@ -93,7 +93,7 @@ li {
 .main{	
 position: relative;
 display: inline-block;
-top: 170px;
+top: 180px;
 width: 100%;
 height: 100%;
 }
@@ -114,6 +114,7 @@ border-color: white;
 #frontcontent{
 	float: left;
 	display: inline-block;
+	margin-top: 10px;
 	margin-left: 40px;
 	font-size: 18pt;
 	font-family: 'Slabo 27px', serif;
