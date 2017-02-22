@@ -149,8 +149,9 @@ ul .frontcontent{
 text-align:  left;
 }
 
-h2 .frontcontent{
-display: inline-block;
+#frontlist{
+font-size: 36px;
+font-weight: bold;
 }
 
 .drop {
