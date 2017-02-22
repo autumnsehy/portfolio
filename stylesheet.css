@@ -114,7 +114,7 @@ top: 180px;
 }
 
 	
-.frontphoto{	
+.frontphoto {	
 float: left;
 margin-left: 50px;
 max-width: 200px;
@@ -136,8 +136,10 @@ border-color: white;
 }
 
 .maincontent{
+display: inline-block;
 line-height: 1.5;
 margin-left: 50px;
+
 }
 
 .drop {
