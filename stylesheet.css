@@ -103,7 +103,7 @@ border: 10px 10px 10px 10px;
 }
 	
 #frontphoto{	
-display: inline-block;
+float: left;
 margin-left: 50px;
 max-width: 70%;
 max-height: 70%;
@@ -112,7 +112,6 @@ border-color: white;
 }
 
 #frontcontent{
-	display: inline-block;
 	font-size: 18pt;
 	font-family: 'Slabo 27px', serif;
 	width: 550px;
