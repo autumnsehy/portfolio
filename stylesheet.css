@@ -181,5 +181,6 @@ font-weight: bold;
 }
 
 .contentblock {
-max-width=800px;
+max-width:800px;
+line-height: 1.3;
 }
