@@ -179,3 +179,7 @@ font-weight: bold;
 .drop:hover .dropdowncontent {
  display: block;
 }
+
+.contentblock {
+max-width=800px;
+}
