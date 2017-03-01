@@ -79,6 +79,16 @@ font-family: 'Open Sans', sans-serif;
 font-weight: 400;
 }
 
+h3{
+	font-size: 18px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+body{
+	font-size:14px;
+	font-family: 'Open Sans', sans-serif;
+}
+
 .container {
 	min-height: 100%;
 	min-width: 100%;
