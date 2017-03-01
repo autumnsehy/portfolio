@@ -185,7 +185,7 @@ font-weight: bold;
     text-align: left;
 }
 
-.dropdowncontent li:hover {background-color: #f1f1f1}
+.dropdowncontent li:hover {background-color: #558273;}
 
 .drop:hover .dropdowncontent {
  display: block;
