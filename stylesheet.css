@@ -52,8 +52,8 @@ a:hover, a:visited, a:link, a:active
     text-decoration: none;
 }
 
-nav:visited nav:link {
-     color:white;
+a:link nav{
+	color: white;
 }
 
 nav li {
