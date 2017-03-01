@@ -52,9 +52,7 @@ a:hover, a:visited, a:link, a:active
     text-decoration: none;
 }
 
-#menu{
-color: white;
-}
+
 
 nav li {
 	
@@ -200,4 +198,9 @@ margin-bottom: 100px;
 text-align: center;
 }
 
-
+a.funnymenu:link{
+	color: white;
+}
+a.funnymenu:visited{
+	color: white;
+}
