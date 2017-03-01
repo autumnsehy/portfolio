@@ -52,8 +52,8 @@ a:hover, a:visited, a:link, a:active
     text-decoration: none;
 }
 
-a:link nav{
-	color: white;
+#menu{
+color: white;
 }
 
 nav li {
