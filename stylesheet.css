@@ -52,6 +52,10 @@ a:hover, a:visited, a:link, a:active
     text-decoration: none;
 }
 
+a:visited {
+     color: #806F14;
+}
+
 nav li {
 	
  display: inline-block;
