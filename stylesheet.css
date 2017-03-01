@@ -205,9 +205,9 @@ a.funnymenu:link{
 a.funnymenu:visited{
 	color: #FFF;
 }
-a.dropdown:link{
+a.dropdowncontent:link{
 	color:#FFF;
 }
-a.dropdown:visited{
+a.dropdowncontent:visited{
 	color:#FFF:
 }
